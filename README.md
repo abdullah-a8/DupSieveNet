@@ -209,3 +209,5 @@ clean:
 DupSieveNet is a hands-on project that shows how distributed computing and network programming can solve real-world problems like image deduplication. With its modular design, clear performance metrics, and robust deduplication logic using PNG decoding and pixel-level hashing, it is a solid foundation for further study and development in distributed image processing systems.
 
 ---
+
+### DAA - Assignment 5B - BSCS23109
