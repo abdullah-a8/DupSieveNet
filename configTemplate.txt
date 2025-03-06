@@ -1,0 +1,12 @@
+# Config file for DupSieveNet
+# Fill in the values as per your setup
+
+SERVER_IP=
+SERVER_PORT=
+
+STORAGE_FOLDER=
+IMAGES_FOLDER=
+
+IMAGE_WIDTH=
+IMAGE_HEIGHT=
+CHANNELS=

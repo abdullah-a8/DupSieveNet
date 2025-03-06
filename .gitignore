@@ -1,0 +1,27 @@
+# Visual Studio Code settings folder
+.vscode/
+
+# compiled binaries
+server_dedup
+client_dedup
+
+# object files
+*.o
+
+# generated images and server storage directories
+generated_images/
+server_storage/
+
+# Python bytecode/cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# configuration file
+config.txt
+
+#others
+TechnicalDetails.md
