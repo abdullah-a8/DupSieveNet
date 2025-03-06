@@ -91,7 +91,7 @@ This project started as an experiment in image processing and network communicat
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/DupSieveNet.git
+   git clone https://github.com/abdullah-a8/DupSieveNet.git
    cd DupSieveNet
    ```
 
